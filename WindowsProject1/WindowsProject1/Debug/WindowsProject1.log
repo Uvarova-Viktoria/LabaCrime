@@ -1,0 +1,91 @@
+﻿  Source.cpp
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(48): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(56): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(58): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(62): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(62): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(73): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(73): error C2065: IDC_EDIT18: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(75): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(78): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(78): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(80): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(80): error C2065: IDC_EDIT2: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(84): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(84): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(86): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(86): error C2065: IDC_EDIT3: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(88): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(88): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(90): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(90): error C2065: IDC_EDIT4: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(92): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(92): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(93): warning C4477: "sprintf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "BYTE *"
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(94): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(94): error C2065: IDC_EDIT5: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(96): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(96): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(98): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(98): error C2065: IDC_EDIT6: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(100): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(100): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(102): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(102): error C2065: IDC_EDIT7: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(104): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(104): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(106): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(106): error C2065: IDC_EDIT8: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(108): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(108): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(110): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(110): error C2065: IDC_EDIT9: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(112): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(112): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(113): warning C4477: "sprintf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "BYTE *"
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(114): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(114): error C2065: IDC_EDIT10: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(116): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(116): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(117): warning C4477: "sprintf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "BYTE *"
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(118): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(118): error C2065: IDC_EDIT11: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(120): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(120): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(121): warning C4477: "sprintf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "INT64"
+  c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(121): note: рекомендуется использовать "%llu" в строке форматирования
+  c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(121): note: рекомендуется использовать "%I64u" в строке форматирования
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(122): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(122): error C2065: IDC_EDIT12: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(124): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(124): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(125): warning C4477: "sprintf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "INT64"
+  c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(125): note: рекомендуется использовать "%llu" в строке форматирования
+  c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(125): note: рекомендуется использовать "%I64u" в строке форматирования
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(126): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(126): error C2065: IDC_EDIT13: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(128): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(128): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(129): warning C4477: "sprintf_s": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "INT64"
+  c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(129): note: рекомендуется использовать "%llu" в строке форматирования
+  c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(129): note: рекомендуется использовать "%I64u" в строке форматирования
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(130): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(130): error C2065: IDC_EDIT14: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(132): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(132): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(134): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(134): error C2065: IDC_EDIT15: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(136): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(136): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(138): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(138): error C2065: IDC_EDIT16: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(140): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(140): error C2065: rd: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(141): warning C4477: "sprintf_s": в строке форматирования "%X" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "BYTE *"
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(142): error C2065: hDlg: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(142): error C2065: IDC_EDIT17: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(145): error C2065: hFlash: необъявленный идентификатор
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(68): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\viche\desktop\учёба\3 курс\6 сем\криминал\windowsproject1\windowsproject1\source.cpp(69): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
